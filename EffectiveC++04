@@ -1,0 +1,5 @@
+《Effective C++ 》学习笔记——条款04
+
+C++ 有着十分固定的 成员初始化次序，次序就是  base classes 更早于其 derived classes 被初始化。
+classes成员变量总是以其声明的顺序次序初始化。
+
